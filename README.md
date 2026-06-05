@@ -15,7 +15,7 @@ This project presents an interactive Sales Dashboard developed in Power BI to an
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Key Insights
 
